@@ -1,0 +1,8 @@
+# Ignorar pastas de estados e artefatos
+.states/
+artifacts/
+
+# Outras regras que você possa ter
+node_modules/
+dist/
+build/
